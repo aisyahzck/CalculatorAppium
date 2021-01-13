@@ -1,4 +1,3 @@
 # CalculatorAppium
-Automation testing on calculator 
+Automation testing on calculator using Appium.
 
-Video demo in on Screencast folder.
