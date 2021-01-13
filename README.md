@@ -1,3 +1,3 @@
 # CalculatorAppium
-Automation testing on calculator using Appium.
+Automation testing on android calculator using Appium.
 
